@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04bcf0e2-0cde-41e5-963a-efdcc5f86d27" name="Changes" comment="Add e-commerce Color Palette.png">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zidio_Intern.iml" afterDir="false" />
-    </list>
+    <list default="true" id="04bcf0e2-0cde-41e5-963a-efdcc5f86d27" name="Changes" comment="Add e-commerce code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +76,7 @@
       <workItem from="1710870379653" duration="7978000" />
       <workItem from="1710912089979" duration="606000" />
       <workItem from="1710923863822" duration="37000" />
+      <workItem from="1711758332813" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="Add Blog Pages">
       <option name="closed" value="true" />
@@ -147,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710881099209</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add e-commerce code">
+      <option name="closed" value="true" />
+      <created>1711758637337</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711758637337</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +174,7 @@
     <MESSAGE value="Add e-commerce designs" />
     <MESSAGE value="Add web designs" />
     <MESSAGE value="Add e-commerce Color Palette.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add e-commerce Color Palette.png" />
+    <MESSAGE value="Add e-commerce code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add e-commerce code" />
   </component>
 </project>

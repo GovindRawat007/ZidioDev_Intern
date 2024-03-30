@@ -1,0 +1,17 @@
+.image-1-icon {
+  position: absolute;
+  top: calc(50% - 194px);
+  left: calc(50% - 237px);
+  width: 474px;
+  height: 387px;
+  object-fit: cover;
+}
+.buy-page1 {
+  width: 100%;
+  height: 860px;
+  position: relative;
+  background-color: #fbfbfb;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  letter-spacing: normal;
+}

@@ -1,1 +1,10 @@
-![Both Mockup image](https://github.com/GovindRawat007/ZidioDev_Intern/assets/110704907/60ef4a7b-8be5-4a67-8fbe-93014a2df684)
+
+  # Zidio E-commerce
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
